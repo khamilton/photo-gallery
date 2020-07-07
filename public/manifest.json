@@ -1,6 +1,6 @@
 {
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
+  "short_name": "My Photo Gallery Tutorial",
+  "name": "My Photo Gallery App",
   "icons": [
     {
       "src": "assets/icon/favicon.png",
